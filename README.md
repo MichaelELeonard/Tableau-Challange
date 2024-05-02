@@ -20,7 +20,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## Data Preparation
 
 
-ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png
+
 
 
 **City officials would also like to see one of the following visualizations:**
