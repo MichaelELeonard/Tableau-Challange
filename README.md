@@ -22,13 +22,13 @@ In this initial submission I will be examining data covering the summer months o
 ## Data Preparation
 To prepare the data for analysis, the May, June & July data files were downloaded from https://www.citibikenyc.com/system-data.  Each table was imported into a Pandas data frame for cleaning and the null values were removed. Finally, the three individual data frames were joined using the pd.concat function. The code can be viewed by clicking the following link: https://github.com/MichaelELeonard/Tableau-Challange/blob/main/CitiBikeCleaningCode.ipynb
 
-## All the Citi Bike Locations sized by rides starts:    
+## All the Citi Bike Locations sized by Rides Starts:    
 
 <img src="ReadME Pictures/All Stations by Size.png">
 
-** The top ten must successful Citi Bike Stations 
+## The top ten must successful Citi Bike Stations 
 
-
+<img src="ReadME Pictures/Top 10 Bike Stations Map.png">
 
 
 
