@@ -35,8 +35,6 @@ The top ten most successful Citi Bike Stations bike stations are listed below. T
 
 <img src="ReadME Pictures/Top 10 Bike Stations.png" width="700" height="500">
 
-<img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png" width="700" height="500">
-
 <img src="ReadME Pictures/Top 10 Bike Stations Map.png" width="700" height="500">
 
 <img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png" width="700" height="500">
