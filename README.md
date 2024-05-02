@@ -49,4 +49,4 @@ The Citi Bike Program in the New York/New Jersey area is already the largest bik
 
 <br>
 
-<img src="ReadME Pictures/Closing Pic.png" width="700" height="500">
+<img src="ReadME Pictures/Closing Pic.png" width="900" height="500">
