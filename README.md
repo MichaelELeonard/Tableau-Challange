@@ -6,7 +6,7 @@
 
 ### Tableau Presentation
 
-* This was saved and published to my Tableau Public account: (https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes)
+* This was saved and published to my Tableau Public account: https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes
 
 ## Background
 
