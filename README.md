@@ -48,7 +48,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 <img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png">
 <img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png.png">
 <img src="ReadME Pictures/Top 10 Bike Stations.png">
-<img src="Cleaner.ipynb">
+Cleaner.ipynb
 
 
 
