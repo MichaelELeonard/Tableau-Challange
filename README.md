@@ -10,7 +10,7 @@
 
 ### Tableau Presentation
 
-* This was saved and published to my Tableau Public account: [https://public.tableau.com/app/profile/elliotteinstein/viz/Citi_Bike_Analysis_16517287699750/CitiBikeAnalysis.](https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes)
+* This was saved and published to my Tableau Public account: (https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes)
 
 ## Background
 
