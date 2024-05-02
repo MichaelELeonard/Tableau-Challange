@@ -57,6 +57,16 @@ Ten high growth opportunity stations are outlined in the charts below. These loc
 
 <br>
 
+<img src="ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png" width="700" height="500">
+
+<img src="ReadME Pictures/Bike Stations with Strong Growth Opportunity Map.png" width="700" height="500">
+
+<img src="ReadME Pictures/Liberty State Park.png" width="700" height="500">
+
+
+
+
+
 ## Conclusion
 The Citi Bike Program in the New York/New Jersey area is already the largest bike sharing program in the United States, but we continue to look for new opportunities for growth. With a new ad campaign and incentive program focused on the growth of our program, Citi Bike will continue the be the leading bikeshare program in the nation.
 
