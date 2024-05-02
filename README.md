@@ -60,19 +60,6 @@ Ten high growth opportunity stations are outlined in the charts below. These loc
 <br>
 
 
-<img src="ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png">
-<img src="ReadME Pictures/10 Most Popular Dashboard.png">
-<img src="ReadME Pictures/All Stations by Size.png">
-<img src="ReadME Pictures/Bike Stations with Strong Growth Opportunity Map.png">
-<img src="ReadME Pictures/Most Popular Starting Points.png">
-<img src="ReadME Pictures/Strong Growth Opportunity Dashboard.png">
-<img src="ReadME Pictures/Top 10 Bike Stations Map.png">
-
-<img src="ReadME Pictures/Top 10 Bike Stations Map.png">
-<img src="ReadME Pictures/Liberty State Park.png">
-
-
-https://github.com/MichaelELeonard/Tableau-Challange/blob/main/CitiBikeCleaningCode.ipynb
 
 
 
