@@ -1,7 +1,7 @@
 # Tableau Challenge - Citi Bike Analysis
 
 
-<img src="ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png>
+<img src="ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png">
 
 
 
