@@ -1,4 +1,4 @@
-# Tableau Challenge - Citi Bike Analysis
+# Citi Bike Analysis
 
 <img src="ReadME Pictures/Opening Pic.png" width="700" height="700">
 
