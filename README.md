@@ -1,7 +1,4 @@
-# Tableau-Project--Citi-Bike-Analysis
-
-
-# Tableau Homework - Citi Bike Analytics
+# Tableau Challenge - Citi Bike Analysis
 
 
 
@@ -37,6 +34,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## 10 Most Popular Stations
 
-## High Growth Opertunity Stations   
+## High Growth Opportunity Stations    
 
 
