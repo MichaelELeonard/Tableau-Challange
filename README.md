@@ -5,11 +5,11 @@
 
 ### Tableau Presentation
 
-* This was saved and published to my Tableau Public account: https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes
+* Link to Tableau Storyboard: https://public.tableau.com/app/profile/michael.leonard4092/viz/TableauChallengeWeek18v2/May-July2023BikeStationsAnalysis?publish=yes
 
 ## Background
 
-As the new lead analyst for the Citi Bike Program(https://citibikenyc.com/homepage, I am responsible for overseeing the largest bike sharing program in the United States. In this new role, I am expected to generate regular reports for city officials looking to publicize and improve the city program.
+As the new lead analyst for the Citi Bike Program (https://citibikenyc.com/homepage, and oversee the largest bike sharing program in the United States. One of my responsibilities in this new role is to generate regular reports for city officials looking to publicize and improve the city program.
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
@@ -28,7 +28,10 @@ To prepare the data for analysis, the May, June & July data files were downloade
 
 ## The top ten must successful Citi Bike Stations 
 
+<img src="RReadME Pictures/Top 10 Bike Stations.png">
+<img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png.png">
 <img src="ReadME Pictures/Top 10 Bike Stations Map.png">
+<img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png">
 
 
 
@@ -49,10 +52,8 @@ To prepare the data for analysis, the May, June & July data files were downloade
 <img src="ReadME Pictures/Most Popular Starting Points.png">
 <img src="ReadME Pictures/Strong Growth Opportunity Dashboard.png">
 <img src="ReadME Pictures/Top 10 Bike Stations Map.png">
-<img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png">
-<img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png.png">
-<img src="RReadME Pictures/Top 10 Bike Stations.png">
 https://github.com/MichaelELeonard/Tableau-Challange/blob/main/CitiBikeCleaningCode.ipynb
+
 
 
 
