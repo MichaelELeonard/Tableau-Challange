@@ -24,11 +24,11 @@ To prepare the data for analysis, the May, June & July data files were downloade
 
 ## All the Citi Bike Locations sized by Rides Starts:    
 
-<img src="ReadME Pictures/All Stations by Size.png">
+<img src="ReadME Pictures/All Stations by Size.png" width="1000" height="1000">
 
 ## The top ten must successful Citi Bike Stations 
 
-<img src="ReadME Pictures/Top 10 Bike Stations.png" width="100" height="100">
+<img src="ReadME Pictures/Top 10 Bike Stations.png" width="1000" height="1000">
 
 <img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png">
 
