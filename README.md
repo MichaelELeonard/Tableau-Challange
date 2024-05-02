@@ -1,6 +1,6 @@
 # Tableau Challenge - Citi Bike Analysis
 
-<img src="ReadME Pictures/Opening Pic.png" width="700" height="500">
+<img src="ReadME Pictures/Opening Pic.png" width="500" height="500">
 
 
 ### Tableau Presentation
@@ -24,17 +24,17 @@ To prepare the data for analysis, the May, June & July data files were downloade
 
 ## All the Citi Bike Locations sized by Rides Starts:    
 
-<img src="ReadME Pictures/All Stations by Size.png" width="700" height="500">
+<img src="ReadME Pictures/All Stations by Size.png" width="500" height="500">
 
 ## The top ten must successful Citi Bike Stations 
 
-<img src="ReadME Pictures/Top 10 Bike Stations.png" width="700" height="500">
+<img src="ReadME Pictures/Top 10 Bike Stations.png" width="500" height="500">
 
-<img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png" width="700" height="500">
+<img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png" width="500" height="500">
 
-<img src="ReadME Pictures/Top 10 Bike Stations Map.png" width="700" height="500">
+<img src="ReadME Pictures/Top 10 Bike Stations Map.png" width="500" height="500">
 
-<img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png" width="700" height="500">
+<img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png" width="500" height="500">
 
 
 
