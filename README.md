@@ -40,6 +40,7 @@ The top ten most successful Citi Bike Stations bike stations are listed below. T
 
 <img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png" width="700" height="500">
 
+<br>
 
 ## High Growth Opportunity Stations    
 
