@@ -49,6 +49,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 <img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png.png">
 <img src="ReadME Pictures/Top 10 Bike Stations.png">
 Cleaner.ipynb
-* [Link to Data Cleaning Code](Cleaner.ipynb)
+https://github.com/MichaelELeonard/Tableau-Challange/blob/main/Cleaner.ipynb
 
 
