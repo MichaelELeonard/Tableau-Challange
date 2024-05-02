@@ -48,6 +48,7 @@ Ten high growth opportunity stations are outlined in the charts below. These loc
 
 <br>
 <img src="ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png">
+<br>
 <img src="ReadME Pictures/Bike Stations with Strong Growth Opportunity Map.png">
 <img src="ReadME Pictures/Liberty State Park.png">
 
