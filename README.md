@@ -39,7 +39,7 @@ To prepare the data for analysis, the May, June & July data files for 2023 were 
 
 ## The Top Ten Most Successful Citi Bike Stations 
 
-The top ten most successful Citi Bike Stations bike stations are listed below. Traditional bike usage significantly outnumbers electric bikes and the peak check out times are 8am and 6pm. A strong contributing factor to these locations’ success appears to be the station location, with stations near the scenic views of the Hudson River and downtown Jersey City locations proving to be popular with our customers.
+The top ten most successful Citi Bike Stations bike stations are listed below. Traditional bike usage significantly outnumbers electric bikes and peak check out times being 8am and 6pm. A strong contributing factor to these locations’ success appears to be the station location, with stations near the scenic views of the Hudson River and downtown Jersey City locations proving to be popular with our customers.
 
 <br>
 
@@ -53,7 +53,7 @@ The top ten most successful Citi Bike Stations bike stations are listed below. T
 
 ## High Growth Opportunity Stations    
 
-Ten high growth opportunity stations are outlined in the charts below. These locations were identified due to having common location traits as the higher performing stations. In addition to having scenic views of the Hudson River and downtown Jersey City locations, an additional focus has been placed on [Liberty State Park](https://visitnj.org/article/liberty-state-park) south of downtown Jersey City as a growth opportunity. This 1,212 acre park offers a two-mile promenade titled the ‘Liberty Walk’, links to multiple picnic areas, interpretive center and terminal, and sweeping views of the Hudson River and Manhattan skyline.  There are ferry rides available to the Statue of Liberty and Elles Island, as well as boating and canoeing opportunities. With a new ad campaign and incentive program for our membership and casual rides, our ten high growth opportunity stations will see increased customer traffic. 
+Ten high growth opportunity stations are outlined in the charts below. These locations were identified as having similar location traits as the higher performing stations. In addition to having scenic views of the Hudson River and downtown Jersey City locations, an additional focus has been placed on [Liberty State Park](https://visitnj.org/article/liberty-state-park) south of downtown Jersey City as a growth opportunity. This 1,212 acre park offers a two-mile promenade titled the ‘Liberty Walk’, links to multiple picnic areas, interpretive center and terminal, and sweeping views of the Hudson River and Manhattan skyline.  There are ferry rides available to the Statue of Liberty and Elles Island, as well as boating and canoeing opportunities. With a new ad campaign and incentive program for our membership and casual rides, our ten high growth opportunity stations will see increased customer traffic. 
 
 <br>
 
