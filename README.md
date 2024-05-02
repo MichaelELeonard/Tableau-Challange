@@ -28,9 +28,9 @@ To prepare the data for analysis, the May, June & July data files were downloade
 
 ## The top ten must successful Citi Bike Stations 
 
-<img src="RReadME Pictures/Top 10 Bike Stations.png">
+<img src="ReadME Pictures/Top 10 Bike Stations.png">
 
-<img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png.png">
+<img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png">
 
 <img src="ReadME Pictures/Top 10 Bike Stations Map.png">
 
