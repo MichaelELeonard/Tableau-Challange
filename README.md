@@ -57,6 +57,8 @@ Ten high growth opportunity stations are outlined in the charts below. These loc
 
 <br>
 
+<img src="ReadME Pictures/10 High Growth Stations.png" width="700" height="500">
+
 <img src="ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png" width="700" height="500">
 
 <img src="ReadME Pictures/Bike Stations with Strong Growth Opportunity Map.png" width="700" height="500">
