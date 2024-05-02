@@ -42,14 +42,14 @@ The top ten most successful Citi Bike Stations bike stations are listed below. T
 <img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png" width="700" height="500">
 
 
-
-## Map
-
-
-
-## 10 Most Popular Stations
-
 ## High Growth Opportunity Stations    
+
+Ten high growth opportunity stations are outlined in the charts below. These locations were identified due to having common location traits as the higher performing stations. In addition to having scenic views of the Hudson River and downtown Jersey City locations, an additional focus on Liberty State Park south of downtown Jersey City provides a growth opportunity. This 1,212 acre park offers a two-mile promenade titled the Liberty Walk, links to multiple picnic areas, interpretive center and terminal and a sweeping views of the Hudson River and Manhattan skyline.  There are ferry rides available to the Statue of Liberty and Elles Island, as well as boating and canoeing opportunities. https://visitnj.org/article/liberty-state-park           
+
+
+
+
+
 
 
 
@@ -60,8 +60,7 @@ The top ten most successful Citi Bike Stations bike stations are listed below. T
 <img src="ReadME Pictures/Most Popular Starting Points.png">
 <img src="ReadME Pictures/Strong Growth Opportunity Dashboard.png">
 <img src="ReadME Pictures/Top 10 Bike Stations Map.png">
+
+<img src="ReadME Pictures/Top 10 Bike Stations Map.png">
+
 https://github.com/MichaelELeonard/Tableau-Challange/blob/main/CitiBikeCleaningCode.ipynb
-
-
-
-
