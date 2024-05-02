@@ -1,7 +1,6 @@
 # Tableau Challenge - Citi Bike Analysis
 
 
-<img src="ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png">
 
 
 
@@ -35,5 +34,19 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## 10 Most Popular Stations
 
 ## High Growth Opportunity Stations    
+
+
+
+<img src="ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png">
+<img src="ReadME Pictures/10 Most Popular Dashboard.png">
+<img src="ReadME Pictures/All Stations by Size.png">
+<img src="ReadME Pictures/Bike Stations with Strong Growth Opportunity Map.png">
+<img src="ReadME Pictures/Most Popular Starting Points.png">
+<img src="ReadME Pictures/Opening Pic.png">
+<img src="ReadME Pictures/Strong Growth Opportunity Dashboard.png">
+<img src="ReadME Pictures/Top 10 Bike Stations Map.png">
+<img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png">
+<img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png.png">
+<img src="RReadME Pictures/Top 10 Bike Stations.png">
 
 
