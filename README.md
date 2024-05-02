@@ -28,7 +28,7 @@ To prepare the data for analysis, the May, June & July data files were downloade
 
 ## The top ten must successful Citi Bike Stations 
 
-The top ten most successful Citi Bike Stations bike stations are listed below. Traditional bike usage significantly outnumbers electric bikes with peak check out times being 8am and 6pm. Another contributing factor to these specific locations’ success appears to be the station location, with stations near the scenic views of the Hudson River and downtown Jersey locations having proving to be popular.
+The top ten most successful Citi Bike Stations bike stations are listed below. Traditional bike usage significantly outnumbers electric bikes with peak check out times being 8am and 6pm. Another contributing factor to these specific locations’ success appears to be the station location, with stations near the scenic views of the Hudson River and downtown Jersey City locations proving to be popular with our customers.
 
 <img src="ReadME Pictures/Top 10 Bike Stations.png" width="700" height="500">
 
