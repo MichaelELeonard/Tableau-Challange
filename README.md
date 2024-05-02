@@ -16,10 +16,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so my first task on the job is to build a set of data reports to provide the answers to key business needs to drive decision making. 
 
 In this initial submission I will be examining data covering the summer months of May, June & July from 2023 and looking to identify: 
-<br>
-<br>
 •	The top ten must successful Citi Bike Stations and identify why these specific locations have been successful.
-<br>
 •	Locate ten stations that have strong growth potential and identify strategies that may help them achieve their full potential.        
 
 ## Data Preparation
@@ -38,6 +35,8 @@ The top ten most successful Citi Bike Stations bike stations are listed below. T
 
 <img src="ReadME Pictures/Top 10 Bike Stations.png" width="700" height="500">
 
+<img src="ReadME Pictures/Top 10 Bike Stations by Month & Bike Type.png" width="700" height="500">
+
 <img src="ReadME Pictures/Top 10 Bike Stations Map.png" width="700" height="500">
 
 <img src="ReadME Pictures/Top 10 Bike Stations Peak Times.png" width="700" height="500">
@@ -45,20 +44,14 @@ The top ten most successful Citi Bike Stations bike stations are listed below. T
 
 ## High Growth Opportunity Stations    
 
-Ten high growth opportunity stations are outlined in the charts below. These locations were identified due to having common location traits as the higher performing stations. In addition to having scenic views of the Hudson River and downtown Jersey City locations, an additional focus on Liberty State Park south of downtown Jersey City provides a growth opportunity. This 1,212 acre park offers a two-mile promenade titled the Liberty Walk, links to multiple picnic areas, interpretive center and terminal and a sweeping views of the Hudson River and Manhattan skyline.  There are ferry rides available to the Statue of Liberty and Elles Island, as well as boating and canoeing opportunities. https://visitnj.org/article/liberty-state-park.           
+Ten high growth opportunity stations are outlined in the charts below. These locations were identified due to having common location traits as the higher performing stations. In addition to having scenic views of the Hudson River and downtown Jersey City locations, an additional focus has been placed on Liberty State Park south of downtown Jersey City as a growth opportunity. This 1,212 acre park offers a two-mile promenade titled the ‘Liberty Walk’, links to multiple picnic areas, interpretive center and terminal, and sweeping views of the Hudson River and Manhattan skyline.  There are ferry rides available to the Statue of Liberty and Elles Island, as well as boating and canoeing opportunities. https://visitnj.org/article/liberty-state-park. With a new ad campaign and incentive program for our membership and casual rides, our ten high growth opportunity stations will see increased customer traffic. 
+
+## Conclusion
+The Citi Bike Program in the New York/New Jersey area is already the largest bike sharing program in the United States, but we continue to look for new opportunities for growth. With a new ad campaign and incentive program focus on the growth of our program, Citi Bike will continue the be the leading bikeshare program in the nation.
 
 <br>
-<img src="ReadME Pictures/10 Growth Opportunity Stations by Month and Bike Type.png" width="700" height="500">
-<br>
-<img src="ReadME Pictures/Bike Stations with Strong Growth Opportunity Map.png" width="700" height="500">
-<img src="ReadME Pictures/Liberty State Park.png" width="700" height="500">
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
+<img src="ReadME Pictures/10 Most Popular Dashboard.png">
 
 
 
